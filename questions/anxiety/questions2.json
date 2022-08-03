@@ -1,0 +1,34 @@
+{
+    "0": [
+        "Do you worry about lots of different things?",
+        "Do you worry about things working out in the future?",
+        "Do you worry about things that have already happened in the past?",
+        "Do you worry about how well you do things?",
+        "Excessive anxiety and worry, occurring more days than not for at least 6 months, about a number of events or activities."
+    ],
+    "1": [
+        "Do you have trouble controlling your worries?",
+        "Do you feel jumpy?",
+        "The individual finds it difficult to control the worry."
+    ],
+    "2": [
+        "Do you get irritable and/or easily annoyed when anxious?",
+        "The anxiety and worry are associated with irritability."
+    ],
+    "3": [
+        "Does worry or anxiety make you feel fatigued or worn out?",
+        "The anxiety and worry are associated with being easily fatigued."
+    ],
+    "4": [
+        "Does worry or anxiety interfere with falling or staying asleep?",
+        "The anxiety and worry are associated with sleep disturbance (difficulty falling or staying asleep, or restless, unsatisfying sleep)."
+    ],
+    "5": [
+        "Does worry or anxiety make it hard to concentrate?",
+        "The anxiety and worry are associated with difficulty concentrating or mind going blank."
+    ],
+    "6": [
+        "Do your muscles get tense when you are worried or anxious?",
+        "The anxiety and worry are associated with muscle tension."
+    ]
+}

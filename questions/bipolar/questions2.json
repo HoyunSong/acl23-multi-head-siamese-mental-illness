@@ -1,0 +1,70 @@
+{
+    "D0": [
+        "Depressed mood most of the day, nearly every day.",
+        "Feeling down, depressed, or hopeless."
+    ],
+    "D1": [
+        "Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day.",
+        "Little interest or pleasure in doing things"
+    ],
+    "D2": [
+        "Insomnia or hypersomnia nearly every day.",
+        "Trouble falling or staying asleep, or sleeping too much."
+    ],
+    "D3": [
+        "Significant weight loss when not dieting or weight gain, or decrease or increase in appetite nearly every day.",
+        "Poor appetite or overeating."
+    ],
+    "D4": [
+        "Fatigue or loss of energy nearly every day.",
+        "Feeling tired or having little energy."
+    ],
+    "D5": [
+        "Feeling worthlessness or excessive or inappropriate guilt nearly every day.",
+        "Feeling bad about yourself - or that you are a failure or have let yourself or your family down."
+    ],
+    "D6": [
+        "Diminished ability to think or concentrate, or indecisiveness, nearly every day.",
+        "Trouble concentrating on things, such as reading the newspaper or watching television."
+    ],
+    "D7": [
+        "A slowing down of thought and a reduction of physical movement.",
+        "Moving or speaking so slowly that other people could have noticed."
+    ],
+    "D8": [
+        "Recurrent thoughts of death, recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.",
+        "Thoughts that you would be better off dead, or of hurting yourself"
+    ],
+    "M0": [
+        "Do you ever experience a persistent elevated or irritable mood for more than a week?",
+        "A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased goal-directed activity or energy, lasting at least 1 week and present most of the day, nearly every day"
+    ],
+    "M1": [
+        "Do you ever experience persistently increased goal-directed activity for more than a week?",
+        "Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation (i.e., purposeless non-goal-directed activity)."
+    ],
+    "M2": [
+        "Do you ever experience inflated self-esteem or grandiose thoughts about yourself?",
+        "Inflated self-esteem or grandiosity."
+    ],
+    "M3": [
+        "Do you ever feel little need for sleep, feeling rested after only a few hours?",
+        "Decreased need for sleep (e.g., feels rested after only 3 hours of sleep)."
+    ],
+    "M4": [
+        "Do you ever find yourself more talkative than usual?",
+        "More talkative than usual or pressure to keep talking."
+    ],
+    "M5": [
+        "Do you experience racing thoughts or a flight of ideas?",
+        "Flight of ideas or subjective experience that thoughts are racing."
+    ],
+    "M6": [
+        "Do you notice (or others comment) that you are easily distracted?",
+        "Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed."
+    ],
+    "M7": [
+        "Do you engage excessively in risky behaviors, sexually or financially?",
+        "Excessive involvement in activities that have a high potential for painful consequences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments)."
+    ]
+}

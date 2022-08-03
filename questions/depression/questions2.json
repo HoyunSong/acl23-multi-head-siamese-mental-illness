@@ -1,0 +1,47 @@
+{
+    "0": [
+        "How often have you been bothered by feeling down, depressed, irritable, or hopeless over the last two weeks?",
+        "Depressed mood most of the day, nearly every day.",
+        "Feeling down, depressed, or hopeless."
+    ],
+    "1": [
+        "How often have you been bothered that you have little interest or pleasure in doing things over the last two weeks?",
+        "Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day.",
+        "Little interest or pleasure in doing things."
+    ],
+    "2": [
+        "How often have you been bothered by trouble falling asleep, staying asleep, or sleeping too much over the last two weeks?",
+        "Insomnia or hypersomnia nearly every day.",
+        "Trouble falling or staying asleep, or sleeping too much."
+    ],
+    "3": [
+        "How often have you been bothered that you have poor appetite, weight loss, or overeating over the last two weeks?",
+        "Significant weight loss when not dieting or weight gain, or decrease or increase in appetite nearly every day.",
+        "Poor appetite or overeating."
+    ],
+    "4": [
+        "How often have you been bothered by feeling tired, or having little energy over the last two weeks?",
+        "Fatigue or loss of energy nearly every day.",
+        "Feeling tired or having little energy."
+    ],
+    "5": [
+        "How often have you been bothered by feeling bad about yourself – or feeling that you are a failure, or that you have let yourself or your family down over the last two weeks?",
+        "Feeling worthlessness or excessive or inappropriate guilt nearly every day.",
+        "Feeling bad about yourself - or that you are a failure or have let yourself or your family down."
+    ],
+    "6": [
+        "How often have you been bothered that you have trouble concentrating on things like school work, reading, or watching TV over the last two weeks?",
+        "Diminished ability to think or concentrate, or indecisiveness, nearly every day.",
+        "Trouble concentrating on things, such as reading the newspaper or watching television."
+    ],
+    "7": [
+        "How often have you been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite – being so fidgety or restless that you were moving around a lot more than usual over the last two weeks?",
+        "A slowing down of thought and a reduction of physical movement.",
+        "Moving or speaking so slowly that other people could have noticed."
+    ],
+    "8": [
+        "How often have you been bothered by thoughts that you would be better off dead, or of hurting yourself in some way over the last two weeks?",
+        "Recurrent thoughts of death, recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.",
+        "Thoughts that you would be better off dead, or of hurting yourself"
+    ]
+}
