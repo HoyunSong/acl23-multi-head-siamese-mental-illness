@@ -11,6 +11,6 @@ A Simple and Flexible Modeling for Mental Disorder Detection by Learning from Cl
 ## CADD
 * __Model overview__
 
-  <img src="https://user-images.githubusercontent.com/42997174/182630320-dd56d6bf-9177-40cc-a162-addb1010acf3.png" width="700" height="370">
+  ![Siamese Network_ver5](https://user-images.githubusercontent.com/42997174/236694295-b1dcee16-6f99-4a6c-99d2-ec14567ffb03.png)
 
 
