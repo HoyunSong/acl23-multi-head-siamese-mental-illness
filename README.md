@@ -1,10 +1,10 @@
-# Learning from Mental Health Self-tests
-Learning from Mental Health Self-tests: Multi-head Siamese Network for Knowledge Learning
+# Multi-head Siamese Network: Learning from Clinical Questionnaires
+A Simple and Flexible Modeling for Mental Disorder Detection by Learning from Clinical Questionnaires
 
 =======================================================
 
 * __Note__
-  * 2022/08/03 New version update
+  * 2023/05/08 New version update
 
 
 
